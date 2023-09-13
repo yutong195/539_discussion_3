@@ -1,0 +1,32 @@
+h1 {
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+    
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+body {
+    background-color: lightblue;
+}
